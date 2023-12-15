@@ -1,0 +1,26 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 650px;
+    height: 400px;
+    background-color: rgb(197, 199, 199);
+    margin: 300px auto;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.form-check {
+    margin-top: 1em;
+}
+
+.container form button {
+    margin-top: 1em;
+    width: 100%;
+}
